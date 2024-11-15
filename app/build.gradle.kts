@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "com.vasthread.webviewtv"
-        minSdk = 21
+        minSdk = 15
         targetSdk = 34
         versionCode = 6
         versionName = "1.6"
